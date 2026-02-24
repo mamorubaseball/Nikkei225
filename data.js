@@ -803,7 +803,7 @@ const marketData = {
                     "name": "IHI",
                     "code": "7013",
                     "marketCap": 20000,
-                    "url": ""
+                    "url": "https://youtu.be/k5PGZT7aMFA"
                 },
                 {
                     "name": "川崎重工",

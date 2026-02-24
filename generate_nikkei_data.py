@@ -145,7 +145,7 @@ nikkei_data = {
         {"code": "6367", "name": "ダイキン工業", "cap": 65000},
         {"code": "6361", "name": "荏原製作所", "cap": 10000},
         {"code": "7011", "name": "三菱重工", "cap": 60000},
-        {"code": "7013", "name": "IHI", "cap": 20000},
+        {"code": "7013", "name": "IHI", "cap": 20000, "url": "https://youtu.be/k5PGZT7aMFA"},
         {"code": "7012", "name": "川崎重工", "cap": 10000},
         {"code": "6098", "name": "リクルートHD", "cap": 100000},
         {"code": "8058", "name": "三菱商事", "cap": 130000},
