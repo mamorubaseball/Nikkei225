@@ -399,7 +399,7 @@ const marketData = {
                     "name": "楽天グループ",
                     "code": "4755",
                     "marketCap": 20000,
-                    "url": ""
+                    "url": "https://youtu.be/adr5Vk6vaM4"
                 },
                 {
                     "name": "エムスリー",
@@ -434,7 +434,7 @@ const marketData = {
                     "name": "三菱UFJ",
                     "code": "8306",
                     "marketCap": 180000,
-                    "url": ""
+                    "url": "https://youtu.be/ft6JbuXs7Oo"
                 },
                 {
                     "name": "三井住友FG",
